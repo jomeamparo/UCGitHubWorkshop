@@ -1,2 +1,2 @@
 this is register ui
-implement register button
+reimplement register button
