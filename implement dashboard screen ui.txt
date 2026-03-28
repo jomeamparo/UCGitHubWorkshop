@@ -1,1 +1,1 @@
-implement dashboard screen ui
+implement dashboard screen sample
