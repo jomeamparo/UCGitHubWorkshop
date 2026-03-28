@@ -1,1 +1,1 @@
-Closes #4
+Close #4
