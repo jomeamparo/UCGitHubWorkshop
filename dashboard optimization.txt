@@ -1,0 +1,1 @@
+- Data Queries: Minimize heavy queries by using caching, indexing, or pre-aggregated tables.
